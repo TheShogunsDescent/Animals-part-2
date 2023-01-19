@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(226,232,221,255);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mobile {
+    background: gray;
+    color: white;
+}
+
+.mobile p {
+  font-size: large;  
+  letter-spacing: 2px;
+}
+
+.click {
+    background-color: aqua;
+    font-weight: bold;
+
+}
+ 
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(245,245,245);
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 3;
+    text-shadow: 20px 6px 5px gray ;
+    color: gray;
+    font-weight: bold;
+}
